@@ -1,16 +1,11 @@
 # mix_app
 
-A new Flutter project.
+A app inspired from Dice App
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/86915734/126422097-e32f66c3-e272-4852-b24d-4fcded8e2a05.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
